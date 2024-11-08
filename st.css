@@ -1,0 +1,19 @@
+.impressora{
+    height: 100px;
+    min-width: 200px;
+    flex-wrap: wrap;
+    border: 10px;
+    margin: 30px;
+    background-color: grey;
+    text-align: center;
+    border-color:green;
+    
+    
+    
+}
+body{
+  
+    display: flex ;
+    flex: 3;
+    background-color: azure;
+}
